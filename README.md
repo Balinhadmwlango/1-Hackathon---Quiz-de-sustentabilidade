@@ -3,6 +3,13 @@
 Projeto feito para o 1° Hackathon voltado aos alunos do curso de informática do Colégio Técnico Antônio Teixeira Fernandes, em 2025, se tratando de um site Web que simula um quiz com perguntas sobre a temática sustentabilidade. Visto que a temática é de suma importância, o quiz propõe um método divertido de ensinar e conscientizar sobre o tema para seus usuários.
 
 
+# Tecnologias utilizadas
+
+- API do Wikipédia.
+- Javacript, HTML e CSS.
+- MySql.
+
+
 # Instrução de instalação
 
 ## Pré-requisitos:
